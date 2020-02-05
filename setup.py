@@ -6,7 +6,6 @@ setuptools.setup(
     author="anilkay",
     author_email="",
     description="Generate full turkish names ",
-    long_description=long_description,
     url="https://github.com/anilkay/Turkish-FullName-Generator",
     packages="turkishfullname",
     classifiers=[
