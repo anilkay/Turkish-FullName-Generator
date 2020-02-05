@@ -1,1 +1,1 @@
-from isimolusturucu import generate_name,generate_names
+from turkishfullname.isimolusturucu import generate_name,generate_names

@@ -1,13 +1,14 @@
 import setuptools
 
 setuptools.setup(
-    name="turkish-fullname-generator", # Replace with your own username
-    version="0.0.1",
+    name="turkishfullnamegenerator", 
+    version="0.0.3",
     author="anilkay",
-    author_email="",
+    author_email="aanilkay@gmail.com",
     description="Generate full turkish names ",
     url="https://github.com/anilkay/Turkish-FullName-Generator",
-    packages="turkishfullname",
+    packages=["turkishfullname"],
+    keywords = ['name generator', 'turk', 'turkish'], 
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

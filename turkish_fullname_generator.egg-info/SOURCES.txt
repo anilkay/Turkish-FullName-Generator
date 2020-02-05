@@ -1,0 +1,8 @@
+README.md
+setup.py
+turkish_fullname_generator.egg-info/PKG-INFO
+turkish_fullname_generator.egg-info/SOURCES.txt
+turkish_fullname_generator.egg-info/dependency_links.txt
+turkish_fullname_generator.egg-info/top_level.txt
+turkishfullname/__init__.py
+turkishfullname/isimolusturucu.py

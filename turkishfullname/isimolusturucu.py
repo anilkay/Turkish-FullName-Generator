@@ -46,9 +46,7 @@ def generate_name(gender):
         isim+=" "+gobekisim      
     return isim+" "+soyad
 
-for i in range(1,10):
-    pass
-    #print(generate_name("kadin"))
+    
 def generate_names(gender,number=10):
     liste=[]
     for i in range(1,number):
